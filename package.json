@@ -1,0 +1,19 @@
+{
+  "name": "prismadb",
+  "version": "1.0.0",
+  "description": "Práctica de la semana 5 se LaunchX Backend NodeJS en donde se ha implementado Prisma para la BD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaEsquivel/prismadb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielaEsquivel/prismadb/issues"
+  },
+  "homepage": "https://github.com/GabrielaEsquivel/prismadb#readme"
+}
